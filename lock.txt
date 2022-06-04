@@ -1,5 +1,4 @@
 if getgenv().Aiming then return getgenv().Aiming end
-Notify("Aimlock is already loaded!")
 -- // Services
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
